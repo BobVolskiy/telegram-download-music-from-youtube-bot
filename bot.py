@@ -56,5 +56,5 @@ def link(message):
         except:
             bot.send_message(message.chat.id,'Произошла какая-то ошибка')
     else: bot.send_message(message.chat.id,'Это не похоже на ссылку с ютуба')
-print('Бот начал свою работу...')
+print('cyka blyat😠Woke me up...')
 bot.polling()
